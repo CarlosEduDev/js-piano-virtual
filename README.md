@@ -1,4 +1,4 @@
-# A music keyboard virtual project
+# A virtual music keyboard project
 
 # Technologies i used:
 - HTML
